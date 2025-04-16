@@ -1,6 +1,13 @@
 
 # 👨‍💻 Samad – Senior Frontend Developer | React.js, Next.js, TypeScript, Shadcn UI, MERN Stack
 
+![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)
+
+
+![GitHub Followers](https://img.shields.io/github/followers/samade747?label=Followers&style=social)  
+
+![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
+
 ## 💰 Rate: $upwork/hr | ⏱️ Availability: 40+ Hrs/Week | 🎓 Meta Frontend Developer Certified  
 
 🔗 [Hire me on Upwork »](https://www.upwork.com/freelancers/~013ca939a5fad1c365)
