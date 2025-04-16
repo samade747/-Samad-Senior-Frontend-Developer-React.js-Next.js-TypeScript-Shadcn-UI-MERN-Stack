@@ -100,5 +100,12 @@ Let’s turn your ideas into interactive, high-performance web solutions.
 ---
 
 **Thank you for visiting! Let's build something amazing together.**  
-— **Samad**
+— **Samad**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)
+
+
+![GitHub Followers](https://img.shields.io/github/followers/samade747?label=Followers&style=social)  
+
+![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
 
