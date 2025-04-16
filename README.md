@@ -8,7 +8,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
 
-## 💰 Rate: $upwork/hr | ⏱️ Availability: 40+ Hrs/Week | 🎓 Meta Frontend Developer Certified  
+## 💰 Rate: $upwork/hr | ⏱️ Availability: 40+ Hrs/Week | 🎓 Frontend Developer Certified  
 
 🔗 [Hire me on Upwork »](https://www.upwork.com/freelancers/~013ca939a5fad1c365)
 
