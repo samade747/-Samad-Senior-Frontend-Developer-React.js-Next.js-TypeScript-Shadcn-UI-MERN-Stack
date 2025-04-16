@@ -1,6 +1,3 @@
-# -Samad-Senior-Frontend-Developer-React.js-Next.js-TypeScript-Shadcn-UI-MERN-Stack
-Upwork.com Samad – Senior Frontend Developer | React.js, Next.js, TypeScript, Shadcn UI, MERN Stack
-
 
 # 👨‍💻 Samad – Senior Frontend Developer | React.js, Next.js, TypeScript, Shadcn UI, MERN Stack
 
