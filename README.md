@@ -99,6 +99,17 @@ Let’s turn your ideas into interactive, high-performance web solutions.
 
 ---
 
+
+## 📬 **Let's Connect!**  
+
+🌐 **Portfolio**: [My Portfolio](https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/)  
+💼 **LinkedIn**: [Abdul Samad](https://www.linkedin.com/in/abdul-samad-7a294766/)  
+📩 **Email**: [samad.e747@gmail.com](mailto:samad.e747@gmail.com)  
+📱 **WhatsApp**: [WhatsApp +923328222026](https://api.whatsapp.com/send/?phone=03328222026&text&type=phone_number&app_absent=0)  
+
+
+⭐ **Explore my repositories & feel free to contribute!** 🚀  
+
 **Thank you for visiting! Let's build something amazing together.**  
 — **Samad**  
 
