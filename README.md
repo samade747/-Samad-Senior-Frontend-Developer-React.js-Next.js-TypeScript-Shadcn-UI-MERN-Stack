@@ -10,7 +10,7 @@
 
 ## 💰 Rate: $upwork/hr | ⏱️ Availability: 40+ Hrs/Week | 🎓 Frontend Developer Certified  
 
-🔗 [Hire me on Upwork »](/freelancers/~013ca939a5fad1c365?mp_source=share)
+🔗 [Hire me on Upwork »](https://www.upwork.com/freelancers/~013ca939a5fad1c365)
 
 Welcome to my GitHub! I’m **Samad**, a highly skilled and creative **Senior Frontend Developer** with over 4 years of hands-on experience building high-performance, responsive, and user-friendly web applications using modern JavaScript frameworks and design systems.
 
