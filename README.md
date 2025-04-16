@@ -64,7 +64,7 @@ I can help you build:
 ## 📜 Certifications & Recognition
 
 - 🏆 Certified Frontend Developer & Backend Developer  
-- ✅ Upwork Skill Certifications (Frontend, React, JavaScript)  
+- ✅ Skill Certifications (Frontend, Backend, Nextjs, React, JavaScript)  
 - 🥇 4+ Years of Verified Industry Experience  
 
 ---
